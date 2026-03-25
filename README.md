@@ -2,7 +2,7 @@
 
 <p align="center">
   공공데이터, 머신러닝, 웹 개발 경험을 바탕으로<br/>
-  데이터와 서비스를 연결하는 <b>Backend / Fullstack Developer</b>를 지향합니다.
+  데이터와 서비스를 연결하는 <b> Frontend / Backend / Fullstack Developer</b>를 지향합니다.
 </p>
 
 ---
