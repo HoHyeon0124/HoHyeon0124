@@ -5,10 +5,6 @@
   사용자 문제를 해결하는 개발자 <b>김호현</b>입니다.
 </p>
 
-<p align="center">
-  <img src="./images/profile.jpg" alt="김호현 증명사진" width="160" />
-</p>
-
 ---
 
 ## 💡 About Me
