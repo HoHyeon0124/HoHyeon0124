@@ -79,7 +79,7 @@
 - 데이터 분석 결과를 실제 웹 서비스로 연결한 프로젝트
 - 머신러닝 모델링과 API, UI 흐름을 함께 경험한 핵심 프로젝트
 
-🔗 **Repository:** [[여기에 상권 추천 프로젝트 링크 입력](https://github.com/codelabstartup/project02)]
+🔗 **Repository:** [[상권 추천 프로젝트 링크](https://github.com/codelabstartup/project02)]
 
 ---
 
@@ -97,7 +97,7 @@ sLLM과 RAG를 활용해 자기소개서 피드백, 예상 면접 질문, 채용
 - 최신 AI 기술을 활용해 사용자 취업 준비 흐름을 지원한 프로젝트
 - 단순 챗봇이 아니라 기능 중심 AI 서비스로 확장한 경험
 
-🔗 **Repository:** [[여기에 Strawberry AI 프로젝트 링크 입력](https://github.com/codelabStrawberry/ReactNodeServer)]
+🔗 **Repository:** [[Strawberry AI 프로젝트 링크](https://github.com/codelabStrawberry/ReactNodeServer)]
 
 ---
 
@@ -115,7 +115,7 @@ sLLM과 RAG를 활용해 자기소개서 피드백, 예상 면접 질문, 채용
 - 사용자 편의 기능과 CRUD 기능을 함께 구현한 팀 프로젝트
 - 공공데이터를 서비스 형태로 변환하는 과정을 경험
 
-🔗 **Repository:** [[여기에 공중화장실 프로젝트 링크 입력](https://github.com/codelab-3time)]
+🔗 **Repository:** [[공중화장실 프로젝트 링크](https://github.com/codelab-3time)]
 
 ---
 
