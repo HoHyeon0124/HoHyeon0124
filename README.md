@@ -65,4 +65,4 @@
 
 - GitHub: https://github.com/HoHyeon0124
 - Email: sdnsp0124@gmail.com
-- Location: Seoul, Korea[포트폴리오 링크]((https://drive.google.com/drive/folders/14pHQoseu5OFfkUb36Sl82Uqv6l-dReNz))
+- Location: Seoul, Korea
